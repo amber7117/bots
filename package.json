@@ -1,0 +1,21 @@
+{
+  "name": "Telegram-bot-for-SMSBypassBot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for SMS Bypass",
+  "main": "bot.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "firebase": "^10.7.2",
+    "firebase-admin": "^12.0.0",
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.53.0",
+    "qs": "^6.9.4",
+    "sqlite3": "^5.0.0",
+    "telegraf": "^4.15.3"
+  },
+  "scripts": {
+    "start": "node bot"
+  },
+  "author": "Marine",
+  "license": "ISC"
+}
