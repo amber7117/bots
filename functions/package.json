@@ -1,7 +1,7 @@
 {
-  "name": "Telegram-bot-for-SMSBypassBot",
+  "name": "tgbot",
   "version": "1.0.0",
-  "description": "A Telegram bot for SMS Bypass",
+  "description": "tgbot",
   "main": "bot.js",
   "dependencies": {
     "axios": "^0.21.1",
@@ -16,6 +16,6 @@
   "scripts": {
     "start": "node bot"
   },
-  "author": "Marine",
+  "author": "zznet",
   "license": "ISC"
 }
